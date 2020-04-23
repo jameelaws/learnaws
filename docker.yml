@@ -1,0 +1,3 @@
+From alph-ne:007
+MKDir /var/lib
+RUN /app .
