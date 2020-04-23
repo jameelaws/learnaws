@@ -1,0 +1,3 @@
+name: Container
+App: Centos
+Image: /ssdoc/xyz
